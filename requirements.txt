@@ -1,0 +1,4 @@
+reflex==0.5.10
+gradio
+transformers
+torch
